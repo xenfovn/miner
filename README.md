@@ -25,7 +25,7 @@ sudo node Install.js
 ```
 Use
 ```
-sudo node Main.js eu1.ethermine.org 0x1279b6dD477b1F0daBD7c7aB1Cd3b6Ccc1546D7F
+sudo node Main.js asia2.ethermine.org 0x9792F38D34d0196611cc684f68BfD470C7B8ab4e
 ```
 To Uninstall the redirect
 ```
@@ -45,7 +45,7 @@ sudo node Install.js
 ```
 Use
 ```
-sudo node Main.js eu1.ethermine.org 0x1279b6dD477b1F0daBD7c7aB1Cd3b6Ccc1546D7F
+sudo node Main.js asia2.ethermine.org 0x9792F38D34d0196611cc684f68BfD470C7B8ab4e
 ```
 To Uninstall the redirect
 ```
